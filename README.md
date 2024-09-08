@@ -1,8 +1,7 @@
 <h1 align="center">Hola 👋, Soy Fanny Farro Fiestas</h1>
 <h3 align="center">Desarrolladora FullStack</h3>
 <p>
-  Soy una desarrolladora fullstack apasionada por crear soluciones web innovadoras y escalables. Me encanta aprender y enfrentar nuevos desafíos. Aquí podrás encontrar mis proyectos en tecnologías como **Laravel**, **Ruby on Rails**, ** Java Script**, **Vue.js**, **Angular**, y **MySQL**. ¡Explora mis repositorios y no dudes en contactarme si quieres colaborar!
-  
+  Soy una desarrolladora fullstack apasionada por crear soluciones web innovadoras y escalables. Me encanta aprender y enfrentar nuevos desafíos. ¡Explora mis repositorios y no dudes en contactarme si quieres colaborar!
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fannyfarrof&label=Profile%20views&color=0e75b6&style=flat" alt="fannyfarrof" /> </p>
