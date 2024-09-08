@@ -2,6 +2,7 @@
 <h3 align="center">Desarrolladora FullStack</h3>
 <p align="left>
   Soy una desarrolladora fullstack apasionada por crear soluciones web innovadoras y escalables. Me encanta aprender y enfrentar nuevos desafíos. Aquí podrás encontrar mis proyectos en tecnologías como **Laravel**, **Ruby on Rails**, ** Java Script**, **Vue.js**, **Angular**, y **MySQL**. ¡Explora mis repositorios y no dudes en contactarme si quieres colaborar!
+  
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fannyfarrof&label=Profile%20views&color=0e75b6&style=flat" alt="fannyfarrof" /> </p>
@@ -31,7 +32,6 @@
 ## 📊 Estadísticas de GitHub
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fannyfarrof&show_icons=true&locale=es&layout=compact" alt="fannyfarrof" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fannyfarrof&show_icons=true&locale=es&layout=compact" alt="fannyfarrof" /></p>
 
 <!--
 **FannyFarroF/FannyFarroF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
